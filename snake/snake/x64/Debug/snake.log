@@ -1,0 +1,5 @@
+﻿  Classes.cpp
+Y:\repository\snake\snake\Classes.h(2,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  Source.cpp
+Y:\repository\snake\snake\Source.cpp(1,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  Создание кода...

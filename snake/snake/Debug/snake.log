@@ -1,0 +1,64 @@
+﻿  Classes.cpp
+Y:\repository\snake\snake\Classes.cpp(24,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+Y:\repository\snake\snake\Classes.cpp(24,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+Y:\repository\snake\snake\Classes.cpp(55,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+Y:\repository\snake\snake\Classes.cpp(55,53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+Y:\repository\snake\snake\Classes.cpp(65,65): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+Y:\repository\snake\snake\Classes.cpp(65,57): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+Y:\repository\snake\snake\Classes.cpp(77,9): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+Y:\repository\snake\snake\Classes.cpp(82,9): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+Y:\repository\snake\snake\Classes.cpp(94,20): warning C4018: <: несоответствие типов со знаком и без знака
+Y:\repository\snake\snake\Classes.cpp(97,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+Y:\repository\snake\snake\Classes.cpp(98,29): warning C4244: =: преобразование "int" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+Y:\repository\snake\snake\Classes.cpp(106,48): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+Y:\repository\snake\snake\Classes.cpp(112,20): warning C4018: <: несоответствие типов со знаком и без знака
+Y:\repository\snake\snake\Classes.cpp(123,20): warning C4018: <: несоответствие типов со знаком и без знака
+Y:\repository\snake\snake\Classes.cpp(136,28): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+Y:\repository\snake\snake\Classes.cpp(137,28): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+Y:\repository\snake\snake\Classes.cpp(140,20): warning C4018: <: несоответствие типов со знаком и без знака
+Y:\repository\snake\snake\Classes.cpp(141,30): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+Y:\repository\snake\snake\Classes.cpp(142,30): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+Y:\repository\snake\snake\Classes.cpp(143,25): warning C4244: =: преобразование "int" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+Y:\repository\snake\snake\Classes.cpp(144,25): warning C4244: =: преобразование "int" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+Y:\repository\snake\snake\Classes.cpp(158,62): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+Y:\repository\snake\snake\Classes.cpp(158,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+Y:\repository\snake\snake\Classes.cpp(165): warning C4715: Moving::straightMoving: значение возвращается не при всех путях выполнения
+Y:\repository\snake\snake\Classes.h(20): warning C4715: Interface::loadFont: значение возвращается не при всех путях выполнения
+Y:\repository\snake\snake\Classes.h(21): warning C4715: Interface::loadTryAgainTexture: значение возвращается не при всех путях выполнения
+  snake.vcxproj -> Y:\repository\snake\Debug\snake.exe
